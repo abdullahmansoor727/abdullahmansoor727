@@ -1,6 +1,4 @@
-# Abdullah Mansoor
-
- Full Stack Developer
+# Abdullah Mansoor | Full Stack Developer
  
 - 👋 Hi, I’m Abdullah Mansoor
 - :heart: to Develop Mobile, Web and Desktop Applications. 
