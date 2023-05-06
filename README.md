@@ -15,4 +15,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=abdullahmansoor727&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmansoor727&layout=compact)
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=abdullahmansoor727&style=flat-square&color=blue" alt=""/>
