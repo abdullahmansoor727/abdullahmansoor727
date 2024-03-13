@@ -10,11 +10,8 @@ I specialize in making intuitive, user-friendly UI using the latest frameworks s
 
 ```javascript
 const abdullahMansoor: AboutPerson = {
-  otherAlias: ["Software Engineer", "Frontend Engineer"],
+  otherAliases: ["Software Engineer", "Frontend Engineer"],
   codesIn: ["TypeScript", "Javascript", "Python", "C#", "Bash"],
-  currentlylearning: ["MongoDB", "Postgres", "Databases", "Intermediate Typescript", "NestJS"],
-  toolsUsing: ["React", "NextJS", "NestJS", "TailwindCSS", "MaterialUI", "Figma", "Vue", "AWS",
-                "Docker", "Kubernetes", "VSCode"],
   experiences: [
     {
       company: "Y-Combinator Startup",
@@ -35,6 +32,26 @@ const abdullahMansoor: AboutPerson = {
     "degree": "BS Computer Science",
     "university": "Salim Habib Unversity (formerly Barett Hodgeson University)"
   },
+  currentlylearning: [
+      "MongoDB",
+      "Postgres",
+      "Databases",
+      "Intermediate Typescript",
+      "NestJS"
+  ],
+  toolsUsing: [
+      "React",
+      "NextJS",
+      "NestJS",
+      "TailwindCSS",
+      "MaterialUI",
+      "Figma",
+      "Vue",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "VSCode"
+  ],
 }
 ```
 ---
