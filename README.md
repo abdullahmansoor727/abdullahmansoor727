@@ -38,7 +38,7 @@ const abdullahMansoor: AboutPerson = {
 }
 ```
 ---
-### Skills
+### Skills ⚡️
 <p align="left" dir="auto">
 <b>Languages</b><br><br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="max-width: 100%;"></a>
@@ -73,7 +73,7 @@ const abdullahMansoor: AboutPerson = {
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me 📇
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahmansoor727)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahmansoor277/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahmansoor277@gmail.com)
