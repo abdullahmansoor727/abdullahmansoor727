@@ -25,7 +25,7 @@ const abdullahMansoor: AboutPerson = {
     },
     {
       company: "Bytecorp Technologies",
-      post: "Software Engineer",
+      post: "Software Engineer II",
       isCurrent: false,
       startDate: "2022-09-01",
       endDate: "2023-12-01"
