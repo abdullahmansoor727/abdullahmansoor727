@@ -2,7 +2,7 @@
 ### I'm Abdullah Mansoor, Software Engineer
 
 Welcome to my GitHub profile! I'm passionate Sofware Engineer who loves creating innovative solutions in Mobile, Web, and Desktop Application Development.<br/><br/>
-I specialize in making intuitive, user-friendly user interfaces using the latest frameworks such as React, Vue and Angular.
+I specialize in making intuitive, user-friendly UI using the latest frameworks such as React, Vue and Angular.
 
 ---
 
