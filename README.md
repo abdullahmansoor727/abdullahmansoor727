@@ -1,18 +1,50 @@
-# Abdullah Mansoor | Software Engineer
- 
-- 👋 Hi, I’m Abdullah Mansoor
-- :heart: to Develop Mobile, Web and Desktop Applications. 
-- 🌱 Currently working at [ByteCorp](https://bytecorp.io "ByteCorp") as a Software Engineer.
-- 💞️ I’m looking to collaborate on Web Development.
+### Hi There! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> 
+### I'm Abdullah Mansoor, Software Engineer
 
- ## Contact
- 
-* <img src="https://user-images.githubusercontent.com/31242849/222058828-6c0f2b74-a9b3-4bbb-a4a6-784bb527dad1.png" alt="" width="20" height="20"> https://github.com/abdullahmansoor727
-* <img src="https://user-images.githubusercontent.com/31242849/222059005-b20c9c43-b57c-49c0-b512-81bc03cc886c.png" alt="" width="20" height="20"> https://www.linkedin.com/in/abdullahmansoor277/
-* <a href="mailto:abdullahmansoor277@gmail.com" target="_blank" title="abdullahmansoor277@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="abdullahmansoor277@gmail.com" width="70" /></a>  
+Welcome to my GitHub profile! I'm passionate Sofware Engineer who loves creating innovative solutions in Mobile, Web, and Desktop Application Development.<br/><br/>
+I specialize in making intuitive, user-friendly user interfaces using the latest frameworks such as React, Vue and Angular.
 
- ## GitHub Stats
+---
 
-![](https://github-readme-stats.vercel.app/api?username=abdullahmansoor727&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmansoor727&layout=compact)
+###  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" height="20"> **aboutMe.ts**
 
-<img src="https://komarev.com/ghpvc/?username=abdullahmansoor727&style=flat-square&color=blue" alt=""/>
+```javascript
+const abdullahMansoor: AboutPerson = {
+  otherAlias: ["Software Engineer", "Frontend Engineer"],
+  codesIn: ["TypeScript", "Javascript", "Python", "C#", "Bash"],
+  currentlylearning: ["MongoDB", "Postgres", "Databases", "Intermediate Typescript", "NestJS"],
+  toolsUsing: ["React", "NextJS", "NestJS", "TailwindCSS", "MaterialUI", "Figma", "Vue", "AWS",
+                "Docker", "Kubernetes", "VSCode"],
+  experiences: [
+    {
+      company: "Y-Combinator Startup",
+      post: "Associate Software Engineer",
+      isCurrent: true,
+      startDate: "2024-02-01",
+      endDate: null
+    },
+    {
+      company: "Bytecorp Technologies",
+      post: "Software Engineer",
+      isCurrent: false,
+      startDate: "2022-09-01",
+      endDate: "2023-12-01"
+    }
+  ],
+  education: {
+    "degree": "BS Computer Science",
+    "university": "Salim Habib Unversity (formerly Barett Hodgeson University)"
+  },
+}
+```
+---
+
+### 🤝 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahmansoor727)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahmansoor277/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahmansoor277@gmail.com)
+
+---
+![Profile Views](https://komarev.com/ghpvc/?username=abdullahmansoor727&style=flat-square&color=blue)
+
+
