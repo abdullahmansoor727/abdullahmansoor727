@@ -8,13 +8,13 @@ I specialize in making intuitive, user-friendly UI using the latest frameworks s
 
 ###  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" height="20"> **aboutMe.ts**
 
-```javascript
+```typescript
 const abdullahMansoor: AboutPerson = {
   otherAliases: ["Software Engineer", "Frontend Engineer"],
   codesIn: ["TypeScript", "Javascript", "Python", "C#", "Bash"],
   experiences: [
     {
-      company: "Y-Combinator Startup",
+      company: "Metal",
       post: "Associate Software Engineer",
       isCurrent: true,
       startDate: "2024-02-01",
