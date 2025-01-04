@@ -10,12 +10,12 @@ I specialize in making intuitive, user-friendly UI using the latest frameworks s
 
 ```typescript
 const abdullahMansoor: AboutPerson = {
-  otherAliases: ["Software Engineer", "Frontend Engineer"],
+  aliases: ["Software Engineer", "Frontend Engineer"],
   codesIn: ["TypeScript", "Javascript", "Python", "C#", "Bash"],
   experiences: [
     {
       company: "Metal",
-      post: "Associate Software Engineer",
+      post: "Software Engineer I",
       isCurrent: true,
       startDate: "2024-02-01",
       endDate: null
