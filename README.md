@@ -15,14 +15,21 @@ const abdullahMansoor: AboutPerson = {
   experiences: [
     {
       company: "Metal (YC W23)",
-      post: "Software Engineer II",
+      post: "Software Engineer II (Level 4)",
       isCurrent: true,
-      startDate: "2024-02-01",
+      startDate: "2025-06-01",
       endDate: null
     },
     {
+      company: "Metal (YC W23)",
+      post: "Software Engineer I (Level 3)",
+      isCurrent: true,
+      startDate: "2024-02-01",
+      endDate: "2025-06-01"
+    },
+    {
       company: "Bytecorp Technologies",
-      post: "Software Engineer II",
+      post: "Software Engineer II (Level 2)",
       isCurrent: false,
       startDate: "2022-09-01",
       endDate: "2023-12-01"
