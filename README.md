@@ -23,7 +23,7 @@ const abdullahMansoor: AboutPerson = {
     {
       company: "Metal (YC W23)",
       post: "Software Engineer I (Level 3)",
-      isCurrent: true,
+      isCurrent: false,
       startDate: "2024-02-01",
       endDate: "2025-06-01"
     },
