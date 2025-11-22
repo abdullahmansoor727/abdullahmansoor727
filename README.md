@@ -1,8 +1,8 @@
 ### Hi There! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> 
 ### I'm Abdullah Mansoor · Software Engineer
 
-Welcome to my GitHub profile! I'm a passionate Sofware Engineer who loves creating innovative solutions in Mobile, Web, and Desktop Application Development.<br/><br/>
-I specialize in making intuitive, user-friendly UI using the latest frameworks such as React, Vue and Angular.
+Welcome to my GitHub profile! I'm a dedicated Software Engineer who loves creating innovative solutions in Mobile, Web, and Desktop Application Development.<br/><br/>
+I specialize in creating intuitive, user-friendly UIs using the latest frameworks, such as React, Vue, and Angular.
 
 ---
 
@@ -11,11 +11,11 @@ I specialize in making intuitive, user-friendly UI using the latest frameworks s
 ```typescript
 const abdullahMansoor: AboutPerson = {
   aliases: ["Software Engineer", "Frontend Engineer"],
-  codesIn: ["TypeScript", "Javascript", "Python", "C#", "Bash"],
+  codesIn: ["TypeScript", "JavaScript", "Python", "C#", "Bash"],
   experiences: [
     {
-      company: "Metal",
-      post: "Software Engineer I",
+      company: "Metal (YC W23)",
+      post: "Software Engineer II",
       isCurrent: true,
       startDate: "2024-02-01",
       endDate: null
