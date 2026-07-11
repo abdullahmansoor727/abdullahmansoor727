@@ -10,7 +10,7 @@ I specialize in creating intuitive and user-friendly UIs using the latest framew
 
 ```typescript
 const abdullahMansoor: AboutPerson = {
-  aliases: ["Software Engineer", "Frontend Engineer"],
+  titles: ["Software Engineer", "Frontend Engineer"],
   codesIn: ["TypeScript", "JavaScript", "Python", "C#", "Bash"],
   experiences: [
     {
